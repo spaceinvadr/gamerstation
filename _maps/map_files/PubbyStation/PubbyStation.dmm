@@ -2441,7 +2441,7 @@
 /obj/structure/closet/secure_closet/contraband/armory,
 /obj/item/poster/random_contraband,
 /obj/item/clothing/suit/security/officer/russian,
-/obj/item/grenade/plastic/c4,
+/obj/item/grenade/c4,
 /turf/open/floor/plasteel/dark,
 /area/ai_monitored/security/armory)
 "aik" = (
@@ -4562,7 +4562,7 @@
 /turf/open/floor/plasteel/showroomfloor,
 /area/security/warden)
 "amT" = (
-/obj/machinery/computer/prisoner,
+/obj/machinery/computer/prisoner/management,
 /obj/machinery/airalarm{
 	pixel_y = 22
 	},
@@ -5545,7 +5545,7 @@
 /turf/open/floor/plating,
 /area/security/brig)
 "apF" = (
-/obj/machinery/computer/gulag_teleporter_computer{
+/obj/machinery/computer/prisoner/gulag_teleporter_computer{
 	dir = 1
 	},
 /turf/open/floor/plasteel/dark,
@@ -6400,7 +6400,7 @@
 /turf/open/floor/plasteel/dark,
 /area/bridge)
 "arR" = (
-/obj/machinery/computer/prisoner,
+/obj/machinery/computer/prisoner/management,
 /obj/effect/turf_decal/tile/red{
 	dir = 1
 	},
